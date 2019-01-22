@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-jpa-communication-panel
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rishi
+Implementation-Vendor-Id: com.ct.commpanel
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-jpa-communication-panel
+Created-By: Maven Integration for Eclipse
+
